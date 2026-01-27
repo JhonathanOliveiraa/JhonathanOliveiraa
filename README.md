@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jhonathan</h1>
-<h3 align="center">A QA trainee</h3>
+<h1 align="center">Hi 👋, I'm Jhonathan Oliveira</h1>
+<h3 align="center">A Junior Backend .NET C# Developer</h3>
 
 
 <div align="center">
@@ -10,22 +10,25 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="60" alt="postman logo" />
 </div>
 
+###
+
 <div align="center">
- <br>
-  <a href="https://github.com/JhonathanOliveiraa">
-    <img height="180em"
-      src="https://github-readme-stats.vercel.app/api?username=JhonathanOliveiraa&show_icons=true&theme=dark&count_private=true"/>
-    <img height="180em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonathanOliveiraa&layout=compact&langs_count=16&theme=dark"/>
-</div>
-
-##
-
-<div>
-  <a href="https://www.instagram.com/jhoneelol/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
   <a href="https://linkedin.com/in/jhonathan-oliveira-de-almeida-b9208727b/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
 </div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JhonathanOliveiraa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JhonathanOliveiraa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JhonathanOliveiraa/JhonathanOliveiraa/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JhonathanOliveiraa/JhonathanOliveiraa/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JhonathanOliveiraa/JhonathanOliveiraa/output/pacman-contribution-graph.svg">
+</picture>
